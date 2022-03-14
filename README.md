@@ -1,4 +1,4 @@
-Salesforce starter
+Salesforce API starter
 ==================
 
 Salesforce specific sample suite to demonstrate the use of API's.
@@ -7,7 +7,7 @@ Salesforce specific sample suite to demonstrate the use of API's.
 Overview
 --------
 
-This repository provides an example how to work with Salesforce cloud.
+This repository provides an example how to work with Salesforce cloud APIs.
 It's meant to be used as a template for Salesforce API testing projects.
 
 
@@ -36,3 +36,4 @@ Directory structure:
   * Salesforce specific helpers are in file ./resources/common_api.robot
 * Preprocess script in repository root to install requests library if not available in Copado Robotic Testing already.
 
+* https://eu-robotic.copado.com
