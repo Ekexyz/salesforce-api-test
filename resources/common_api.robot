@@ -2,7 +2,7 @@
 # Library                   QWeb
 # Library                   QForce
 Library                   String
-Library                   RequestLibrary
+Library                   RequestsLibrary
 Library                   Collections
 
 *** Variables ***
